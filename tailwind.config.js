@@ -20,7 +20,8 @@ module.exports = {
 				'equipment-light': '#df9834',
 			},
 			width: {
-				'32p': '32%',
+                '20p': '20%',
+				'32p': '20%',
 				'48p': '48%',
 			},
 		},

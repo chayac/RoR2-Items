@@ -27,7 +27,7 @@ body {
 }
 .is-stackable {
 	color: rgb(159, 164, 182);
-	font-size: 14px;
+	font-size: 12px;
 	text-shadow: 1px 1px 1px black;
 }
 .is-corrupt {
@@ -79,3 +79,34 @@ input,
 button {
 	@apply transition focus:outline-none focus:border-blue-800 focus:ring focus:ring-blue-800;
 }
+
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    font-size: 12px;
+}
+
+.nody {
+    justify-content: flex-start;
+}
+
+.flex-col {
+    /* width: 8%; */
+    margin: 0;
+}
+
+.text-xl {
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+img {
+    width: 50px;
+}
+
+.items-start {
+    align-items: initial;
+}
+

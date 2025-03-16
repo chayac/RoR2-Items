@@ -58,7 +58,7 @@
 		20,
 		0,
 		"BleedOnHit",
-		"Trip-Tip Dagger",
+		"Tri-Tip Dagger",
 		"offense,dot",
 		"tritip",
 		"{offense:10%} {+10%} chance to {offense:bleed} an enemy for {offense:240%} base damage."
@@ -999,15 +999,6 @@
 		"**** UNIQUE ITEMS ****"
 	],
 	[
-		101,
-		3,
-		"missinguid_artifactKey",
-		"Artifact Key",
-		"activation",
-		"artifactKey",
-		"A stone shard with immense power."
-	],
-	[
 		53,
 		3,
 		"BeetleGland",
@@ -1488,7 +1479,7 @@
 		"Spinel Affliction",
 		"utility,buff,debuff,attack,speed,movespeed,health,regen",
 		"tonic",
-		"Drink the Tonic, gaining a boost for 15 seconds.\nIncreases {offense:damage} by {offense:+100%}.\nIncreases {offense:attack speed} by {offense:+70%}.\nIncreases {offense:armor} by {offense:+20}.\nIncreases {defense:maximum health} by {defense:+50%}.\nIncreases {defense:passive health regeneration} by {defense:+300%}.\nIncreases {misc:movespeed} by {misc:+30%}.\nWhen the tonic wears off, you have {debuff:20%} chance to gain a {debuff:Tonic Affliction, reducing all of your stats} by {debuff:-5%} {-5%}.\nCooldown: {misc:60s}",
+		"Drink the Tonic, gaining a boost for 15 seconds.\nIncreases {offense:damage}, {offense:attack speed}, {offense:armor}, {defense:maximum health}, {defense:passive health regeneration}, and {misc:movespeed}.\nWhen the tonic wears off, you have {debuff:20%} chance to gain a {debuff:Tonic Affliction, reducing all of your stats} by {debuff:-5%} {-5%}.\nCooldown: {misc:60s}",
 		"Discover and enter three unique portals."
 	],
 	[
